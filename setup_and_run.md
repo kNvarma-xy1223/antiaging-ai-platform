@@ -31,7 +31,7 @@ pip install -r requirements.txt
 python populate_graph.py
 
 # 4. train ML models (2-5 min)
-python agents/ml_agent.py
+python api/agents/ml_agent.py
 ```
 
 After step 4, go to Terminal 1, press Ctrl+C, restart:
