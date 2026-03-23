@@ -15,6 +15,11 @@ Given any drug name (RAPAMYCIN, QUERCETIN, METFORMIN etc.) it returns:
 - **Overall tier** — Tier 1 / 2 / 3 candidate classification
 
 ---
+## System Architecture
+
+![Architecture Diagram](assets/architecture.png)
+
+---
 
 ## Tech stack
 
