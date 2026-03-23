@@ -130,9 +130,9 @@ Takes 2-5 minutes. Trains 3 models and saves them to `ml_models/`.
 
 **Expected output:**
 ```
-[Phase 1] Spectral embeddings... ✅  3215 nodes embedded
-[Phase 2] Link predictor...      ✅  accuracy=0.85  AUC=0.82
-[Phase 3] Success predictor...   ✅  accuracy=0.70  AUC=0.65
+[Phase 1] Spectral embeddings...   3215 nodes embedded
+[Phase 2] Link predictor...        accuracy=0.85  AUC=0.82
+[Phase 3] Success predictor...     accuracy=0.70  AUC=0.65
 ALL MODELS SAVED TO ml_models/
 ```
 
