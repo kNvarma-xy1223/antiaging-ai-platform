@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# ML models (large binary files — regenerate by running ml_agent.py)
+ml_models/
+
+# Graph storage (regenerate by running populate_graph.py)
+graph_storage/
+
+# Data cache (regenerate by calling API endpoints)
+data_cache/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+uvicorn.log
+
+# Environment
+.env
+.env.local
